@@ -11,7 +11,7 @@ sections:
       text: |-
        Contact us with the following email: 888888@chaselab
       email: test@example.org
-      phone: 888 888 88 88
+      phone: 123456
       address:
         street: 450 Serra Mall
         city: Stanford
