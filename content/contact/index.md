@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-       contact us with the following email.
+       Contact us with the following email: 888888@chaselab
       email: test@example.org
       phone: 888 888 88 88
       address:
