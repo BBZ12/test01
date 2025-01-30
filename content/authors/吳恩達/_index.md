@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lihui Duan 段力辉
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lihui
+last_name: Duan
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 段力辉
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Immunology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: IGDB
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include integrating cutting-edge spatial omics technologies with high-throughput sequencing to unravel the complex cellular and molecular landscapes of the brain and its surrounding structures.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Immunology
+  - Neurobiology
+  - Spatial Transcriptomics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Neurobiology
+      institution: Institute of Neuroscience
+      year: 2018
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
