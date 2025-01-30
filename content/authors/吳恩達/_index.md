@@ -18,7 +18,7 @@ role: Professor of Immunology
 
 # Organizations/Affiliations
 organizations:
-  - name: IGDB
+  - name: Institute of Genetics and Developmental Biology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -34,12 +34,10 @@ education:
     - course: PhD in Neurobiology
       institution: Institute of Neuroscience
       year: 2018
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+
+    - course: BSc in Life Science
+      institution: Huazhong Agricultural University
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
